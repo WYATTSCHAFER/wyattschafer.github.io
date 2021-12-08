@@ -10,11 +10,11 @@
   background-color: #f0f0f0;
 }
 
-h1, h2, p {
+h1, h2, h3, p {
   font-family: 'Readex Pro', sans-serif;
 }
 
-h1, h2 {
+h1, h2, h3 {
   text-align: center;
 }
 
