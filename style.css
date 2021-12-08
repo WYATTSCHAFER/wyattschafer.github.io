@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro&display=swap');
+
 #titlediv {
   left: 10%;
   position: absolute;
@@ -6,6 +8,10 @@
   width: 80%;
   margin: 5% auto;
   background-color: #f0f0f0;
+}
+
+h1, h2, p {
+  font-family: 'Readex Pro', sans-serif;
 }
 
 h1, h2 {
