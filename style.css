@@ -8,10 +8,6 @@
   background-color: #f0f0f0;
 }
 
-#body {
-  background-image: url(GrandCanyon.png);
-}
-
 #bkg {
   position: fixed;
   z-index: -1;
