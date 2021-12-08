@@ -13,6 +13,10 @@ h1, h2 {
   text-align: center;
 }
 
+p {
+  overflow-wrap: break-word;
+}
+
 #bkg {
   left: -500px;
   top: -300px;
