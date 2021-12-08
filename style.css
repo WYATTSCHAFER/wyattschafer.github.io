@@ -9,6 +9,10 @@
   background-color: #f0f0f0;
 }
 
+h1, h2 {
+  text-align: center;
+}
+
 #bkg {
   left: -500px;
   top: -300px;
