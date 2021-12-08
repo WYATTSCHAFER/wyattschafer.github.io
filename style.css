@@ -1,4 +1,5 @@
 #titlediv {
+  left: 10%;
   position: absolute;
   border-radius: 25px;
   padding: 10px;
@@ -9,6 +10,8 @@
 }
 
 #bkg {
+  left: -500px;
+  top: -300px;
   position: fixed;
   z-index: -1;
 }
