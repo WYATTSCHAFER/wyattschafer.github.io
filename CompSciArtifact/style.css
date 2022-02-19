@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap'); /*font-family: 'Akaya Telivigala', cursive;*/
 
+body{
+  background-color: aqua;
+}
+
 h1, h2, p{
   text-align: center;
   font-family: 'Akaya Telivigala', cursive;
@@ -11,6 +15,13 @@ p{
 
 #title{
   font-size: 64px;
+}
+
+#main{
+  width: 75%;
+  height: fit-content;
+  margin: auto;
+  background-color: rgba(255, 255, 255, 0.8);
 }
 
 .header{
