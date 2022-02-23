@@ -1,0 +1,2 @@
+# wyattschafer.github.io
+skool
