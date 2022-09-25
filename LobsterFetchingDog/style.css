@@ -4,7 +4,7 @@ body{
   background-color: blueviolet;
 }
 
-h1, h2, p{
+h1, h2, p, a{
   text-align: center;
   font-family: 'Akaya Telivigala', cursive;
 }
