@@ -28,6 +28,10 @@ iframe{
   font-size: 64px;
 }
 
+#links{
+  margin: 8px;
+}
+
 #bkg{
   position: fixed;
   z-index: -1;
