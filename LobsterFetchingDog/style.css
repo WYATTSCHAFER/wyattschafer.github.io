@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap'); /*font-family: 'Akaya Telivigala', cursive;*/
 
-body{
-  background-color: blueviolet;
-}
-
 h1, h2, p, a{
   text-align: center;
   font-family: 'Akaya Telivigala', cursive;
@@ -26,10 +22,6 @@ iframe{
 
 #title{
   font-size: 64px;
-}
-
-#links{
-  margin: 8px;
 }
 
 #bkg{
