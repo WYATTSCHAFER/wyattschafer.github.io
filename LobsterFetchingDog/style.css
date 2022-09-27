@@ -20,6 +20,11 @@ iframe{
   display: block;
 }
 
+video{
+  margin: auto;
+  display: block;
+}
+
 #title{
   font-size: 64px;
 }
