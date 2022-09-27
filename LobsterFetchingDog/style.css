@@ -56,12 +56,12 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: rgb(184, 184, 184);
 }
 
 li {
   float: left;
-  border-right:1px solid #bbb;
+  border-right:1px solid rgb(58, 58, 58);
 }
 
 li a {
@@ -73,11 +73,11 @@ li a {
 }
 
 li a:hover:not(.active) {
-  background-color: #111;
+  background-color: rgb(132, 132, 132);
 }
 
 .active {
-  background-color: #04AA6D;
+  background-color: #aa0404;
 }
 
 #date{
