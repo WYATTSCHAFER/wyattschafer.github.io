@@ -79,3 +79,9 @@ li a:hover:not(.active) {
 .active {
   background-color: #04AA6D;
 }
+
+#date{
+  margin: auto;
+  text-align: right;
+  font-size: 8px;
+}
