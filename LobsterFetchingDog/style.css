@@ -43,10 +43,14 @@ video{
   left: 0px;
   top: 0px;
   width: 100%;
+  height: 50px;
+}
+
+#spacer{
+  height: 70px;
 }
 
 #main{
-  top: 40px;
   width: 75%;
   height: fit-content;
   margin: auto;
