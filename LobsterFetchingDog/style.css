@@ -46,6 +46,7 @@ video{
 }
 
 #main{
+  top: 40px;
   width: 75%;
   height: fit-content;
   margin: auto;
