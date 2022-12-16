@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap'); /*font-family: 'Akaya Telivigala', cursive;*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap'); /*font-family: 'Poppins', sans-serif;*/
 
 h1, h2, p, a{
   text-align: center;
-  font-family: 'Akaya Telivigala', cursive;
+  font-family: 'Poppins', sans-serif;
 }
 
 h1, h2, p{
@@ -10,7 +11,7 @@ h1, h2, p{
 }
 
 ul{
-  font-family: 'Akaya Telivigala', cursive;
+  font-family: 'Poppins', sans-serif;
   font-size: 20px;
 }
 
@@ -64,6 +65,7 @@ video{
   background-color: rgba(0, 0, 0, 0.8);
   border-style: double;
   border-color: black;
+  box-shadow: 0 0 3rem 0.1rem rgb(0 0 0 / 40%);
 }
 
 ul {
@@ -93,6 +95,13 @@ li a:hover:not(.active) {
 
 .active {
   background-color: #aa0404;
+}
+
+.article {
+  text-align: left;
+  padding-left: 5%;
+  padding-right: 5%;
+  line-height: 2;
 }
 
 #date{
